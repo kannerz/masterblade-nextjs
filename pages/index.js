@@ -37,6 +37,9 @@ export default function index() {
         <li className="nav-item">
           <Link className="nav-link" href="/contact"> ติดต่อเรา</Link>
         </li>
+        <li className="nav-item">
+          <Link className="nav-link" href="/dashboard/index">Dashboard</Link>
+        </li>
       </ul>
       <form className="d-flex" role="search">
         <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
@@ -51,10 +54,10 @@ export default function index() {
 <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="1000">
-      <img src="/cow.jpg" class="d-block w-100" alt="cow" />
+      <img src="/mavin-get-fish.jpg" class="d-block w-100" alt="cow" />
     </div>
     <div class="carousel-item" data-bs-interval="1000">
-      <img src="/chick.jpg" class="d-block w-100" alt="chick" />
+      <img src="/mavin-aquaman.jpg" class="d-block w-100" alt="chick" />
     </div>
   </div>
 
