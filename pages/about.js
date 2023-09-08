@@ -55,19 +55,19 @@ export default function about() {
   {/* Three columns of text below the carousel */}
   <div className="row">
     <div className="col-lg-4">
-    <img src="/TAE_LEAK.gif" className="bd-placeholder-img rounded-circle" alt="gtr2"width={140} height={140} />
+    <img src="/vergil.gif" className="bd-placeholder-img rounded-circle" alt="gtr2"width={140} height={140} />
       <h2 className="fw-normal">อะไร</h2>
       <p>คุณได้รับพรและยกย่องให้เป็นพระเจ้าของเรา</p>
       <p><a className="btn btn-secondary" href="https://www.kaidee.com/product-367989760/">฿ 300 »</a></p>
     </div>{/* /.col-lg-4 */}
     <div className="col-lg-4">
-    <img src="/TAE_LEAK.gif" className="bd-placeholder-img rounded-circle" alt="gtr2"width={140} height={140} />
+    <img src="/vergil.gif" className="bd-placeholder-img rounded-circle" alt="gtr2"width={140} height={140} />
       <h2 className="fw-normal">อะไร</h2>
       <p>พวกเจ้าตัดสินและพระองค์มิได้ทรงบัญชาพวกเจ้า และพระองค์จะไม่ทรงทำให้บรรดาผู้ที่พวกเจ้าดูแลอยู่ต้องอับอาย และพระองค์ก็ไม่ทรงให้เกียรติบรรดาผู้ที่พวกเจ้าปกครองด้วย</p>
       <p><a className="btn btn-secondary" href="https://www.kaidee.com/product-367891472">฿ 250 »</a></p>
     </div>{/* /.col-lg-4 */}
     <div className="col-lg-4">
-    <img src="/TAE_LEAK.gif" className="bd-placeholder-img rounded-circle" alt="gtr2"width={140} height={140} />
+    <img src="/vergil.gif" className="bd-placeholder-img rounded-circle" alt="gtr2"width={140} height={140} />
       <h2 className="fw-normal">อะไร</h2>
       <p>พระองค์ทรงดูแลและอวยพรข้าพระองค์สำหรับสิ่งที่พระองค์ประทานแก่ข้าพระองค์ และปกป้องข้าพระองค์จากความชั่วร้ายของสิ่งที่พระองค์ทรงกำหนดไว้ เพราะพระองค์ทรงเป็น</p>
       <p><a className="btn btn-secondary" href="https://www.kaidee.com/product-367935051">฿ 460 »</a></p>
@@ -75,19 +75,19 @@ export default function about() {
   </div>{/* /.row */}
   <div className="row">
     <div className="col-lg-4">
-    <img src="/TAE_LEAK.gif" className="bd-placeholder-img rounded-circle" alt="gtr2"width={140} height={140} />
+    <img src="/vergil.gif" className="bd-placeholder-img rounded-circle" alt="gtr2"width={140} height={140} />
       <h2 className="fw-normal">อะไร</h2>
       <p>โอ้อัลลอฮ์ ขอทรงแนะนำฉันในหมู่ผู้ที่พระองค์ทรงแนะนำ และทรงรักษาฉันในหมู่ผู้ที่พระองค์ทรงให้หาย และทรงดูแลฉันในหมู่ผู้ที่พระองค์ทรงรักษาไว้ด้วย</p>
       <p><a className="btn btn-secondary" href="https://www.kaidee.com/product-367961497">฿ 45,000 »</a></p>
     </div>{/* /.col-lg-4 */}
     <div className="col-lg-4">
-    <img src="/TAE_LEAK.gif" className="bd-placeholder-img rounded-circle" alt="gtr2"width={140} height={140} />
+    <img src="/vergil.gif" className="bd-placeholder-img rounded-circle" alt="gtr2"width={140} height={140} />
       <h2 className="fw-normal">อะไร</h2>
       <p>โอ้อัลลอฮฺ ฉันตาย ( นอนหลับ ) และฉันมีชีวิต ( ตื่นขึ้น ) มาด้วยพระนามของอัลลอฮฺ</p>
       <p><a className="btn btn-secondary" href="https://www.kaidee.com/product-368000117">฿ 49,000 »</a></p>
     </div>{/* /.col-lg-4 */}
     <div className="col-lg-4">
-    <img src="TAE_LEAK.gif" className="bd-placeholder-img rounded-circle" alt="gtr2"width={140} height={140} />
+    <img src="vergil.gif" className="bd-placeholder-img rounded-circle" alt="gtr2"width={140} height={140} />
       <h2 className="fw-normal">อะไร</h2>
       <p>โอ้ พระเจ้าของเรา ขอพระองค์ได้ทรงโปรดประทานความอดทนให้แก่เราด้วยเถิด และโปรดทำให้เท้าของเรามั่นคง และโปรดได้ช่วยเหลือเราให้มีชัยเหนือผู้ปฏิเสธ</p>
       <p><a className="btn btn-secondary" href="https://www.kaidee.com/product-367763933">฿ 120,000 »</a></p>

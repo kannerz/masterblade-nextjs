@@ -63,8 +63,8 @@ export default function contact() {
   <hr style={{width: 200}} className="w3-opacity" />
   <div className="w3-section">
     <p><i className="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right" /> CHIANGMAI , THAILAND</p>
-    <p><i className="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right" /> Phone: 0650563214</p>
-    <p><i className="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: wwedied@gmail.com</p>
+    <p><i className="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right" /> Phone: 0969055045</p>
+    <p><i className="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: kanzaza.5419@gmail.com</p>
   </div><br />
   <main>
   <div class="container py-4">
@@ -80,14 +80,14 @@ export default function contact() {
       <div class="col-md-6">
         <div class="h-100 p-5 text-bg-success  rounded-3">
           <h2>Line</h2>
-          <p>0650563214</p>
+          <p>0969055045</p>
           <a href="https://line.me/ti/p/_a6LxGYycP" className="btn btn-outline-light" role="button">แอดเลย</a>
         </div>
       </div>
       <div class="col-md-6">
         <div class="h-100 p-5 bg-body-tertiary border rounded-3">
           <h2>Email</h2>
-          <a href="mailto:wwedied@gmail.com" class="btn btn-outline-secondary" type="button">ติดต่อเลย</a>
+          <a href="mailto:kanzaza.5419@gmail.com" class="btn btn-outline-secondary" type="button">ติดต่อเลย</a>
         </div>
       </div>
     </div>
