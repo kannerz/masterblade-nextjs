@@ -27,7 +27,7 @@ import Swal from 'sweetalert2';
   
      if (result.isConfirmed) {
       // Perform the deletion using fetch
-      fetch('https://frontend-gray-beta.vercel.app/api/user/' + id, {
+      fetch('https://masterblade-nextjs.vercel.app/api/user/' + id, {
         method: 'DELETE',
       }); 
   

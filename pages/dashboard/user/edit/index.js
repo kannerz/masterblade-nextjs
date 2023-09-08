@@ -4,7 +4,7 @@ import { useRouter } from "next/router";
 
 export async function getServerSideProps(req) {
   const id = req.query;
-  const res = await fetch('http://localhost:3000/api/user?id=' + id, {
+  const res = await fetch('https://masterblade-nextjs.vercel.app/api/user?id=' + id, {
     method: 'GET',
   })
   const posts = await res.json();
