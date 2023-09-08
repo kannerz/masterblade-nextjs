@@ -38,7 +38,7 @@ export default function index() {
           <Link className="nav-link" href="/contact"> ติดต่อเรา</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" href="/dashboard/index">Dashboard</Link>
+          <Link className="nav-link" href="/dashboard">Dashboard</Link>
         </li>
       </ul>
       <form className="d-flex" role="search">
